@@ -1,3 +1,8 @@
+/*
+I did not write this. 
+Credit to https://www.reddit.com/user/Paul_Pedant/ 
+https://www.reddit.com/r/cprogramming/comments/k2mi97/why_narrow_types_dont_allow_for_arithmetic/gdv7syb/?context=3 
+*/
 #include <stdlib.h>
 #include <string.h>
 #include <stdio.h>
